@@ -1,1 +1,1 @@
-# goit-markup-hw-01
+# Landing Page for Dental Clinic Telegram Bot
